@@ -6,4 +6,4 @@ permalink: /about/
 
 I am developer Planet
 
-email: xditx32[at]gmail.com mailto:"xditx32@gmail.com"
+email: [xditx32@gmail.com] (mailto:xditx32@gmail.com)
